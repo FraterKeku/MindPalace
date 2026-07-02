@@ -1,5 +1,7 @@
 ---
 title: Hosting
+feature: Site-Blog-MindPalace/docs/images/dns records.png
+thumbnail: thumbnails/resized/2624cc69ebe01e8d3af586b32d998da6_86cf658e.webp
 ---
 
 Quartz effectively turns your Markdown files and other resources into a bundle of HTML, JS, and CSS files (a website!).

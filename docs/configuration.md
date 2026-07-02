@@ -1,5 +1,7 @@
 ---
 title: Configuration
+feature: Site-Blog-MindPalace/docs/images/quartz transform pipeline.png
+thumbnail: thumbnails/resized/e92baf018920357e11ba93100e329152_86cf658e.webp
 ---
 
 Quartz is meant to be extremely configurable, even if you don't know any coding. Most of the configuration you should need can be done by just editing `quartz.config.yaml`.

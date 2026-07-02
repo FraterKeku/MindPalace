@@ -2,6 +2,8 @@
 title: Comments
 tags:
   - component
+feature: Site-Blog-MindPalace/docs/images/giscus-example.png
+thumbnail: thumbnails/resized/967b00dd82eee0c36e64a12d5401c7ce_86cf658e.webp
 ---
 
 Quartz also has the ability to hook into various providers to enable readers to leave comments on your site.

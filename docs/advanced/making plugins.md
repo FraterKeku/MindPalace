@@ -1,5 +1,7 @@
 ---
 title: Making your own plugins
+feature: Site-Blog-MindPalace/docs/images/quartz transform pipeline.png
+thumbnail: thumbnails/resized/e92baf018920357e11ba93100e329152_86cf658e.webp
 ---
 
 > [!warning]

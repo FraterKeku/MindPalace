@@ -1,5 +1,7 @@
 ---
-title: "Social Media Preview Cards"
+title: Social Media Preview Cards
+feature: Site-Blog-MindPalace/docs/images/social-image-preview-light.png
+thumbnail: thumbnails/resized/8b529bbe2202584ee38708897378bb22_86cf658e.webp
 ---
 
 A lot of social media platforms can display a rich preview for your website when sharing a link (most notably, a cover image, a title and a description).

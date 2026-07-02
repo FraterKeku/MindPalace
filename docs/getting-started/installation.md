@@ -1,7 +1,9 @@
 ---
-title: "Installation"
+title: Installation
 aliases:
-  - "setting up your GitHub repository"
+  - setting up your GitHub repository
+feature: Site-Blog-MindPalace/docs/images/github-init-repo-options.png
+thumbnail: thumbnails/resized/093852076a58da4b7cd1bc8fae07b5d8_86cf658e.webp
 ---
 
 This page walks you through the full Quartz setup: from getting the source code to previewing your site locally, then pushing it to GitHub.

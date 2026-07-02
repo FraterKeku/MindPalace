@@ -7,6 +7,8 @@ image: "[[social-image-preview-dark.png]]"
 repository: "[quartz-community/og-image](https://github.com/quartz-community/og-image)"
 enabled: true
 required: false
+feature: Site-Blog-MindPalace/docs/images/custom-social-image-preview-light.png
+thumbnail: thumbnails/resized/82fafc1f2c74110c32b32c4acfa6cdb7_86cf658e.webp
 ---
 
 The Custom OG Images emitter plugin generates social media preview images for your pages. It uses [satori](https://github.com/vercel/satori) to convert HTML/CSS into images, allowing you to create beautiful and consistent social media preview cards for your content.
