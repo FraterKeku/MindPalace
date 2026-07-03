@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: pt-BR
-  baseUrl: mindpalace.vercel.app
+  baseUrl: mind-palace.vercel.app
   ignorePatterns:
     - private
     - templates
