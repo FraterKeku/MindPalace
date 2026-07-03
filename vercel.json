@@ -1,4 +1,7 @@
 {
+  "buildCommand": "npx quartz plugin install --from-config && npx quartz build",
+  "installCommand": "npm install",
+  "outputDirectory": "public",
   "cleanUrls": true,
   "trailingSlash": false
 }
