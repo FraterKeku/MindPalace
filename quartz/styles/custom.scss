@@ -1,3 +1,30 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ── Breadcrumb: só um indicador de caminho, não-clicável e discreto ──
+.breadcrumb-container {
+  a {
+    color: var(--darkgray);
+    pointer-events: none; // vira um guia visual, não dá pra clicar
+    cursor: default;
+    text-decoration: none;
+    background-color: transparent !important;
+
+    &:hover {
+      color: var(--darkgray);
+      text-decoration: none;
+    }
+  }
+
+  // separadores "❯" um tom mais apagado
+  p {
+    color: var(--gray);
+  }
+
+  // página atual (último item) com um leve destaque
+  .breadcrumb-element:last-child a {
+    color: var(--dark);
+    font-weight: 600;
+  }
+}
