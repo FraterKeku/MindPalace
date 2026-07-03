@@ -1,10 +1,7 @@
 ---
 title: Minha primeira postagem
 tags:
-  - exemplo
+  - Sobre_eu
 ---
 
-Essa é uma nota de exemplo dentro de `Postagens/Exemplo/`. Apague ou edite à vontade — é só
-pra mostrar como o Quartz transforma pastas em categorias e arquivos `.md` em postagens.
-
-Wikilinks `[[como esse]]`, tags `#assim` e frontmatter funcionam normalmente, igual no Obsidian.
+Oii! Me chamo Louise, e esta é minha primeira postagem neste proto-testezinho de blog com obsidian e outras coisinhas. Bem, aqui vou tentar falar de váaaarias coisinhas. Principalmente das minhas aventuras em joguinhos. Chega mais, vou tentar postar direto. :3 

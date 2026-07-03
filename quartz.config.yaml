@@ -127,6 +127,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderClickBehavior: collapse
     layout:
       position: left
       priority: 50
