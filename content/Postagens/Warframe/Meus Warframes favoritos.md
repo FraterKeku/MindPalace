@@ -1,0 +1,1 @@
+Pra começar, no foda-se mesmo, Voruna. 
